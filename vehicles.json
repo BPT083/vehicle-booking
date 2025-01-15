@@ -1,0 +1,9 @@
+{
+  "vehicles": [
+    { "id": 1, "type": "Sedan", "category": "Economy", "seats": 4 },
+    { "id": 2, "type": "SUV", "category": "Luxury", "seats": 6 },
+    { "id": 3, "type": "Hatchback", "category": "Economy", "seats": 4 },
+    { "id": 4, "type": "Van", "category": "Economy", "seats": 8 },
+    { "id": 5, "type": "Luxury Sedan", "category": "Luxury", "seats": 4 }
+  ]
+}
